@@ -19,12 +19,17 @@
 
 </br>
 
+---
+
 ### My favourite projects 💛
 
 - [Dictionary-floating-widget](https://github.com/HimanshuSharma789/Dictionary-floating-widget)
 - [Git-repository-project](https://github.com/HimanshuSharma789/Git-repository-project)
+- [streaming_over_the_server](https://github.com/HimanshuSharma789/streaming_over_the_server)
 
 </br>
+
+---
 
 ### Find me here 🌐
 
@@ -34,4 +39,4 @@
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma789&show_icons=true" alt="himanshusharma789" />
+<img align="center" border="1" src="https://github-readme-stats.himanshusharma789.vercel.app/api?username=himanshusharma789&show_icons=true" alt="himanshusharma789" />
