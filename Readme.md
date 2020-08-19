@@ -29,8 +29,6 @@
 
 </br>
 
----
-
 ### Find me here 🌐
 
 <a href="https://twitter.com/Himanshu__404" alt="Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -39,4 +37,6 @@
 
 </br>
 
-<img align="center" border="1" src="https://github-readme-stats.himanshusharma789.vercel.app/api?username=himanshusharma789&show_icons=true" alt="himanshusharma789" />
+<img align="center" border="1" src="https://github-readme-stats.himanshusharma789.vercel.app/api?username=himanshusharma789&show_icons=true&include_all_commits=true" alt="himanshusharma789" />
+
+</br></br>
