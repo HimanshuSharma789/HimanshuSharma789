@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<h3 align="center">A passionate fullstack developer from India ❤️</h3>
+<h3 align="center">A passionate developer from India ❤️</h3>
 
 </br>
 
-- 🌱 I’m currently learning **Android Development with Kotlin**.
+- 🌱 I’m currently learning **TECH STUFF**.
 
 - 👯 I’m looking to collaborate on **open source projects**.
 
@@ -17,18 +17,23 @@
 
 ---
 
+
 ### My favourite projects 💛
 - [Notes-MVVM](https://github.com/HimanshuSharma789/Notes-MVVM)
 - [Dictionary-floating-widget](https://github.com/HimanshuSharma789/Dictionary-floating-widget)
 - [Git-repository-project](https://github.com/HimanshuSharma789/Git-repository-project)
-- [streaming_over_the_server](https://github.com/HimanshuSharma789/streaming_over_the_server)- 
+- [streaming_over_the_server](https://github.com/HimanshuSharma789/streaming_over_the_server)
+
+### Shh!! Hinding some private repo 😏
+To prevent world from turning into CHAOS 💀. (just kidding)
+- CTF problem (hosted for CTF event - Anveshanam) 🚩
+- Offline Payment App (thesis project) 🔐
 
 </br>
 
 ### Find me here 🌐
-
-<a href="https://twitter.com/Himanshu__404" alt="Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/himanshu-sharma789/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Himanshu__404" alt="Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/hmylord" alt="Steam"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
 
 </br>
